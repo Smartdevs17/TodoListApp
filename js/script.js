@@ -95,6 +95,7 @@ window.addEventListener("load",() => {
         taskDeleteBtn.addEventListener("click",() => {
             tasks.removeChild(taskElement);
         });
+
     });  
 
 });
